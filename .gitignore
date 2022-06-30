@@ -1,2 +1,4 @@
 access.py
-venv/
+*.log
+.DS-Store
+
