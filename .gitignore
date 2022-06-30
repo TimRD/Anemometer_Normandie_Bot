@@ -1,4 +1,5 @@
 access.py
 *.log
 .DS-Store
+.idea
 
